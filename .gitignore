@@ -1,0 +1,6 @@
+research/
+__pycache__/
+*.pyc
+.sites-runtime/
+.env
+*.tar.gz

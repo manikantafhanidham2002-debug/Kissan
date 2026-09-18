@@ -1,0 +1,13 @@
+{
+  "htmlPages": 104,
+  "products": 13,
+  "recipes": 66,
+  "packOptions": 28,
+  "imagesDecodedAndReferenced": 108,
+  "sourcePagesCovered": 102,
+  "sourcePagesMissing": [],
+  "errors": [],
+  "javascriptSyntax": "passed node --check",
+  "browserQA": "Not requested; not run",
+  "webmcpValidation": "No permitted supported context"
+}
